@@ -1,0 +1,23 @@
+{
+  "name": "learning",
+  "version": "0.0.1",
+  "description": "My first jQuery project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexbragen/jQuery.git"
+  },
+  "keywords": [
+    "jQuery",
+    "First"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexbragen/jQuery/issues"
+  },
+  "homepage": "https://github.com/Alexbragen/jQuery#readme"
+}
