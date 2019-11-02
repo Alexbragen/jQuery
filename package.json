@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Alexbragen/jQuery/issues"
   },
-  "homepage": "https://github.com/Alexbragen/jQuery#readme"
+  "homepage": "https://github.com/Alexbragen/jQuery#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }

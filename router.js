@@ -9,6 +9,8 @@ module.exports = {
             if (method == 'GET') {
                 if (url == '/') {
                     page.index(res);
+                } else {
+                    page.other(url, res);
                 }
             } else {
                 console.log('error');
